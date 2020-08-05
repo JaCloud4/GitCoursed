@@ -1,0 +1,26 @@
+Task #4 or 5 using VIM to edit and save details of task 3 or 4.
+
+Set up a Git Project in terminal would look as followed:
+
+HIGHER! Nav to Parent directory
+cd Desktop.
+  
+HIGHER!  Fail at creating a folder/LINUXD but this a Mac
+cat GitCourse
+cat: GitCourse: No such file or directory
+
+HIGHER! Create new directory "GitCourse"
+mkdir GitCourse
+
+HIGHER! Nav to New directory
+cd GitCourse
+
+HIGHER! Init it as a Git Project
+git init
+Initialized empty Git repository in /Users/quese/Desktop/GitCourse/.git/
+
+HIGHER!
+
+
+
+
